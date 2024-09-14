@@ -7,7 +7,7 @@ In the source directory, you may execute any of the following:
 
 `make deps-dnf` - installs the build dependencies required to compile the program on a Linux system with the `dnf` package manager.
 
-`make` - creates an executable for x86_64 Linux.
+`make` - creates an executable from Linux.
 
 `make clean` - deletes only the generated executable file created by only executing `make`.
 
